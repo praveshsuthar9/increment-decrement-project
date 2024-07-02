@@ -28,4 +28,6 @@ leftBtn.addEventListener("click", () => {
     secondbasketcount--;
     basket2.innerHTML = secondbasketcount;
   }
+
+  
 });
